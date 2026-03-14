@@ -18,4 +18,15 @@ pip install pygame
 
 Then, clone this repository and run the script!
 
+Note: How your folder/game should look:
+📁 MyRickyGame/[Whatever you want to name it]
+ ┗ 📜 ricky_potts.py
+ ┗ 📁 assets
+   ┃ 📜 Ricky.png
+   ┃ 📜 cat.png
+   ┃ 📜 heart.png
+   ┃ 📜 eheart.png
+   ┃ 📜 meow.mp3
+   ┃ 📜 levelup.mp3
+
 Created with ❤️ (for Ricky and his catwomen) by @nasvyni
