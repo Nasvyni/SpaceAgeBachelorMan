@@ -2,7 +2,7 @@
 
 Welcome to the imagination of Ricky Potts from the canadian musical Ride The Cylone! 
 
- - How to Play
+ - How to Play 
 
 Move: Use the UP and DOWN arrow keys.
 
