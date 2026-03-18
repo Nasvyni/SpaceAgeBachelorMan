@@ -13,7 +13,7 @@ Win: Reach 2500 Love Points to give Ricky his happy ending in Zolar with his cat
 Restart: If you lose your 3 lives, press R to try again.
 
 
-
+ 
  - Setup & Installation
 Ensure you have Python and Pygame installed, here's how to install pygame:
 
