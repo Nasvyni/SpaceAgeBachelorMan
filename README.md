@@ -2,7 +2,7 @@
 
 Welcome to the imagination of Ricky Potts from the canadian musical Ride The Cylone! 
 
- - How to Play 
+⋆˚꩜｡ How to Play 
 
 Move: Use the UP and DOWN arrow keys.
 
@@ -14,7 +14,7 @@ Restart: If you lose your 3 lives, press R to try again.
 
 
  
- - Setup & Installation
+⋆˚꩜｡ Setup & Installation
 Ensure you have Python and Pygame installed, here's how to install pygame:
 
        pip install pygame
