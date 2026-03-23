@@ -1,8 +1,8 @@
 # Ricky Potts: Space Age Ba-Ba-Bachelor Man !!
 
-Welcome to the imagination of Ricky Potts from the canadian musical Ride The Cylone! 
+Welcome to the imagination of Ricky Potts from the canadian cult musical Ride The Cylone! 
 
-⋆˚꩜｡ How to Play 
+1.) How to Play 
 
 Move: Use the UP and DOWN arrow keys.
 
@@ -14,7 +14,8 @@ Restart: If you lose your 3 lives, press R to try again.
 
 
  
-⋆˚꩜｡ Setup & Installation
+2.) Setup & Installation
+
 Ensure you have Python and Pygame installed, here's how to install pygame:
 
        pip install pygame
