@@ -2,6 +2,14 @@
 
 Welcome to the imagination of Ricky Potts from the canadian cult musical Ride The Cylone! 
 
+
+## Disclaimer!!!!!!!
+All original characters, assets, and source material (including Ricky Potts, and the assets that belong) belong to their respective creators (Jacob Richmond and Brooke Maxwell). This  fan game is a non-commercial, fan-made project created purely for entertainment and coding practice. ***No copyright infringement is intended.***
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
 1.) How to Play 
 
 Move: Use the UP and DOWN arrow keys.
